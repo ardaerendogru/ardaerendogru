@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arda Eren Dogru</h1>
-<h3 align="center">Computer Engineering Student B.Sc & Data Science and Engineering M.Sc. @ Politecnico di Torino
+<h3 align="center">Computer Engineering Student @ Politecnico di Torino
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardaerendogru&label=Profile%20views&color=0e75b6&style=flat" alt="ardaerendogru" /> </p>
