@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Flower Breed Classifier](https://github.com/ardaerendogru/Flower-Breed-Classifier)
 
-- 🌱 I’m currently learning **Deep Learning Specilization by Andrew NG, and also pytorch.**
+- 🌱 I’m currently learning **Deep Learning Specilization by Andrew NG.**
 
 - 👨‍💻 All of my projects are available at [www.github.com/ardaerendogru](www.github.com/ardaerendogru)
 
