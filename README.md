@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [www.github.com/ardaerendogru](www.github.com/ardaerendogru)
 
-- 📫 How to reach me **ardaerendogru2632@gmail.com**
+- 📫 How to reach me **ardaeren.dogru@studenti.polito.it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
