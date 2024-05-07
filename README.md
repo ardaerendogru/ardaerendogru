@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardaerendogru&label=Profile%20views&color=0e75b6&style=flat" alt="ardaerendogru" /> </p>
 
-- 🔭 I’m currently working on [Flower Breed Classifier](https://github.com/ardaerendogru/Flower-Breed-Classifier)
+- 🔭 I’m currently working on [MICCAI MBAS 2024 - Multi-class Bi-Atrial Segmentation Challenge](https://codalab.lisn.upsaclay.fr/competitions/18516)
 
 - 🌱 I’m currently learning **Deep Learning Specilization by Andrew NG.**
 
