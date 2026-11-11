@@ -1,23 +1,37 @@
-<h1 align="center">Hi 👋, I'm Arda Eren Dogru</h1>
-<h3 align="center">Data Science and Engineering MSc Student @ Politecnico di Torino
-</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img alt="Arda Eren Doğru — Computer Vision, Streaming Video & Vision-Language Models" src="./assets/header-light.svg" width="100%">
+</picture>
 
-- 🔭 I’m currently working on [MICCAI MBAS 2024 - Multi-class Bi-Atrial Segmentation Challenge](https://codalab.lisn.upsaclay.fr/competitions/18516)
-
-- 🌱 I’m currently learning **Deep Learning Specilization by Andrew NG.**
-
-- 👨‍💻 All of my projects are available at [www.github.com/ardaerendogru](www.github.com/ardaerendogru)
-
-- 📫 How to reach me **ardaeren.dogru@studenti.polito.it**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ardaerendogru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ardaerendogru" height="30" width="40" /></a>
+  <a href="https://scholar.google.com/citations?user=6P5XEP0AAAAJ&hl=en"><strong>Google Scholar</strong></a> &nbsp;·&nbsp;
+  <a href="https://ardaerendogru.github.io/SAGE"><strong>SAGE (IEEE RA-L · ICRA ’27)</strong></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/ardaerendogru/"><strong>LinkedIn</strong></a> &nbsp;·&nbsp;
+  <a href="https://mhug.disi.unitn.it/"><strong>MHUG · UniTN</strong></a> &nbsp;·&nbsp;
+  <a href="https://focoos.ai/"><strong>Focoos AI</strong></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+I am beginning my PhD in Information Engineering and Computer Science at the [University of Trento](https://www.disi.unitn.it/) ([MHUG](https://mhug.disi.unitn.it/)), supervised by [Prof. Massimiliano Mancini](https://mancinimassimiliano.github.io/) and [Dr. Fabio Cermelli](https://fcermelli.github.io/), and co-funded by [Focoos AI](https://focoos.ai/). My research focuses on **streaming video understanding**, **calibrated vision-language models**, and **unified scene representations**—accumulating visual evidence frame by frame as events unfold, separating real state changes from everyday clutter, and deciding *when* it is worth speaking up under realistic compute budgets.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardaerendogru&show_icons=true&locale=en&layout=compact" alt="ardaerendogru" /></p>
+Before moving to Trento, I studied Electronics and Communication Engineering at [Istanbul Technical University](https://www.itu.edu.tr/en), then completed my B.Sc. in Computer Engineering and M.Sc. in Data Science and Engineering at [Politecnico di Torino](https://www.polito.it/).
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ardaerendogru&show_icons=true&locale=en" alt="ardaerendogru" /></p>
+---
+
+### Selected Research
+
+- **[SAGE — Joint Semantic and Geometric Scene Understanding](https://ardaerendogru.github.io/SAGE)**  
+  *Arda Eren Doğru et al.* · **IEEE Robotics and Automation Letters (RA-L)**, 2026 *(Accepted · Presenting at IEEE ICRA 2027, Seoul)*  
+  Unified scene representation learning coupling semantic segmentation with dense 3D geometric structure for robotics and embodied perception without duplicated encoder overhead.
+
+- **Encoder-Only Multi-Task Learning**  
+  *M.Sc. Thesis, Politecnico di Torino*, 2025 · Advised by Prof. Carlo Masone & Dr. Fabio Cermelli  
+  Investigated how far a single shared visual encoder can carry simultaneous dense prediction tasks without heavy task-specific decoders—analyzing representation sharing, task interference, and compute trade-offs.
+
+### Open-Source & Utilities
+
+- **[`dinov2_distillation`](https://github.com/ardaerendogru/dinov2_distillation)** · `PyTorch` · `Knowledge Distillation`  
+  Distilling dense, task-agnostic visual representations from DINOv2 Vision Transformers into compact convolutional backbones for tight latency and memory budgets.
+
+- **[`dl2curl`](https://github.com/ardaerendogru/dl2curl)** · `Browser Extension` · `Local CLI`  
+  Intercepts authenticated browser downloads and translates them into ready-to-paste `curl`, `wget`, or `aria2c` commands with headers, cookies, and redirects intact—100% locally for headless GPU servers.
