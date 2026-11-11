@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img alt="Arda Eren Doğru — Computer Vision & Multimodal Learning" src="./assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
+  <img alt="Arda Eren Doğru" src="./assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="left">
@@ -12,7 +12,7 @@
   <a href="https://focoos.ai/"><strong>Focoos AI</strong></a>
 </p>
 
-I am beginning my PhD in Information Engineering and Computer Science at the [University of Trento](https://www.disi.unitn.it/) ([MHUG](https://mhug.disi.unitn.it/)), supervised by [Prof. Massimiliano Mancini](https://mancinimassimiliano.github.io/) and [Dr. Fabio Cermelli](https://fcermelli.github.io/), and co-funded by [Focoos AI](https://focoos.ai/). My research focuses on **computer vision**, **video understanding**, and **efficient vision-language models**.
+I am beginning my PhD in Information Engineering and Computer Science at the [University of Trento](https://www.disi.unitn.it/) ([MHUG](https://mhug.disi.unitn.it/)), supervised by [Prof. Massimiliano Mancini](https://mancinimassimiliano.github.io/) and [Dr. Fabio Cermelli](https://fcermelli.github.io/), and co-funded by [Focoos AI](https://focoos.ai/). My research focuses on **computer vision**, **video understanding**, and **multimodal learning**.
 
 Before moving to Trento, I studied Electronics and Communication Engineering at [Istanbul Technical University](https://www.itu.edu.tr/en), then completed my B.Sc. in Computer Engineering and M.Sc. in Data Science and Engineering at [Politecnico di Torino](https://www.polito.it/).
 
